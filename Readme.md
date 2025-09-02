@@ -6,7 +6,7 @@ I will be uploading solutions and explanations of concepts covered during my uni
 ---
 
 ## 📚 Course Topics Covered (Progress Checklist)
-- [ ] Introduction to Arrays (1D, 2D)  
+- [x] Introduction to Arrays (1D, 2D)  
 - [ ] Recursion  
 - [ ] Linked List (Singly)  
 - [ ] Doubly & Circular Linked List  
@@ -32,7 +32,7 @@ I will be uploading solutions and explanations of concepts covered during my uni
 
 ## 🛠️ Technologies Used
 - **Language:** C#  
-- **IDE:** Visual Studio / Rider / VS Code  
+- **IDE:** Visual Studio 
 - **Version Control:** Git & GitHub  
 
 ---
@@ -77,8 +77,8 @@ I will be uploading solutions and explanations of concepts covered during my uni
 
 ## ✨ Author
 **Muhammad Abdullah**  
-- 🎓 Undergraduate Student  
+- 🎓 Undergraduate Student at Bahria University Karachi campus
 - 💻 Learning Data Structures & Algorithms with C#  
-- 🌐 [GitHub Profile](https://github.com/your-username)  
+- 🌐 [GitHub Profile](https://github.com/muhammad-abdullaahh)  
 
 ---
