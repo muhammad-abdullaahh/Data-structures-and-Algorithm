@@ -8,7 +8,7 @@ I will be uploading solutions and explanations of concepts covered during my uni
 ## 📚 Course Topics Covered (Progress Checklist)
 - [x] Introduction to Arrays (1D, 2D)  
 - [x] Recursion  
-- [ ] Linked List (Singly)  
+- [x] Linked List (Singly)  
 - [ ] Doubly & Circular Linked List  
 - [ ] Stacks  
 - [ ] Queues  
