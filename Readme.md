@@ -9,7 +9,7 @@ I will be uploading solutions and explanations of concepts covered during my uni
 - [x] Introduction to Arrays (1D, 2D)  
 - [x] Recursion  
 - [x] Linked List (Singly)  
-- [ ] Doubly & Circular Linked List  
+- [x] Doubly & Circular Linked List  
 - [ ] Stacks  
 - [ ] Queues  
 - [ ] Static, Binary & Binary Search Tree  
