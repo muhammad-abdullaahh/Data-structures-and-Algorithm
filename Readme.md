@@ -10,7 +10,7 @@ I will be uploading solutions and explanations of concepts covered during my uni
 - [x] Recursion  
 - [x] Linked List (Singly)  
 - [x] Doubly & Circular Linked List  
-- [ ] Stacks  
+- [x] Stacks  
 - [ ] Queues  
 - [ ] Static, Binary & Binary Search Tree  
 - [ ] Open-Ended Lab I  
