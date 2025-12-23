@@ -1,7 +1,6 @@
-# 🧑‍💻 Data Structures & Algorithms (DSA) – Lab Work
+# 🧑‍💻 Data Structures & Algorithms (DSA) 
 
 This repository contains my **Data Structures & Algorithms (DSA)** lab tasks and implementations in C#.  
-I will be uploading solutions and explanations of concepts covered during my university lab sessions.
 
 ---
 
@@ -11,22 +10,18 @@ I will be uploading solutions and explanations of concepts covered during my uni
 - [x] Linked List (Singly)  
 - [x] Doubly & Circular Linked List  
 - [x] Stacks  
-- [ ] Queues  
-- [ ] Static, Binary & Binary Search Tree  
-- [ ] Open-Ended Lab I  
-- [ ] MID Exams Preparation  
-- [ ] Heaps & Priority Queues  
-- [ ] Hashing  
-- [ ] Graphs (BFS, DFS)  
-- [ ] Sorting Algorithms  
+- [x] Queues  
+- [x] Binary Search Tree  
+- [x] Heaps & Priority Queues  
+- [x] Graphs
+- [x] Sorting Algorithms  
   - [ ] Bubble Sort  
   - [ ] Selection Sort  
   - [ ] Insertion Sort  
-  - [ ] Merge Sort  
-  - [ ] Quick Sort  
-- [ ] Searching Algorithms  
-  - [ ] Binary Search  
-  - [ ] Interpolation Search  
+  - [x] Merge Sort  
+  - [x] Quick Sort  
+- [x] Searching Algorithms  
+  - [x] Binary Search  
 
 ---
 
@@ -42,15 +37,12 @@ I will be uploading solutions and explanations of concepts covered during my uni
 📦 DSA-Lab
  ┣ 📁 Arrays
  ┣ 📁 Recursion
- ┣ 📁 LinkedLists
- ┃ ┣ 📁 Singly
- ┃ ┣ 📁 Doubly
- ┃ ┗ 📁 Circular
+ ┣ 📁 Singly LinkedLists
+ ┣ 📁 Doubly LinkedLists
  ┣ 📁 Stacks
  ┣ 📁 Queues
  ┣ 📁 Trees
- ┣ 📁 Heaps
- ┣ 📁 Hashing
+ ┣ 📁 Heaps and Priority Queues
  ┣ 📁 Graphs
  ┣ 📁 Sorting
  ┣ 📁 Searching
@@ -59,18 +51,9 @@ I will be uploading solutions and explanations of concepts covered during my uni
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/DSA-Lab.git
-   ```
-2. Open the project in **Visual Studio** (or your preferred IDE).  
-3. Build and run the desired program from its folder.  
-
----
 
 ## 📌 Notes
-- Each topic will have **well-structured C# code** with comments for understanding.  
+- Each topic will have **well-structured C# code**.  
 - The repo will be updated **weekly** as new lab tasks are completed.  
 
 ---
